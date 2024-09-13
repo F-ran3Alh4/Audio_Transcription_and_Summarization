@@ -22,9 +22,9 @@ This project demonstrates a pipeline for converting audio files into text transc
 
 ## Code Overview
 
-- **`simple_pipeline_notebook.ipynb`**: This notebook shows how to use the Whisper model for converting audio to text and the PEGASUS model for summarizing the text. It includes functions to process audio and summarize text, with example code snippets.
+- **`pipeline_notebook.ipynb`**: This notebook shows how to use the Whisper model for converting audio to text and the PEGASUS model for summarizing the text. It includes functions to process audio and summarize text, with example code snippets.
 
-- **`gradio_example_notebook.ipynb`**: Features a demonstration of Gradio components such as `Textbox`, `Slider`, and `Audio`. The code examples illustrate how to build and customize Gradio interfaces for different types of user inputs and outputs.
+- **`gradio_notebook.ipynb`**: Features a demonstration of Gradio components such as `Textbox`, `Slider`, and `Audio`. The code examples illustrate how to build and customize Gradio interfaces for different types of user inputs and outputs.
 
 - **`full_implementation_notebook.ipynb`**: Integrates the transcription and summarization functionality into a Gradio interface. The notebook contains code that allows users to upload audio files, adjust summary length settings, and view both the transcript and summary. It showcases how to combine multiple models and Gradio components into a cohesive application.
 
