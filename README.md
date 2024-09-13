@@ -9,6 +9,7 @@ This project demonstrates a pipeline for converting audio files into text transc
 - **Whisper (OpenAI)**: A cutting-edge model for automatic speech recognition (ASR). The `base` variant is used to transcribe audio files into text, providing robust performance across various languages and accents.
 
 - **PEGASUS (Hugging Face)**: A model specialized in text summarization, specifically the `google/pegasus-large` variant. It generates concise and coherent summaries from longer texts, ideal for summarizing transcribed content.
+  more about model: [https://huggingface.co/docs/transformers/main/model_doc/pegasus#pegasus]
 
 ## Files
 
