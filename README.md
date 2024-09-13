@@ -12,8 +12,8 @@ This project demonstrates a pipeline for converting audio files into text transc
 
 ## Files
 
-- **`simple_pipeline_notebook.ipynb`**: Demonstrates the use of Hugging Face models for audio-to-text transcription and text summarization with code examples and explanations.
-- **`gradio_example_notebook.ipynb`**: Illustrates various Gradio components and their functionalities, showcasing how to build interactive web interfaces.
+- **`pipeline_notebook.ipynb`**: Demonstrates the use of Hugging Face models for audio-to-text transcription and text summarization with code examples and explanations.
+- **`gradio_notebook.ipynb`**: Illustrates various Gradio components and their functionalities, showcasing how to build interactive web interfaces.
 - **`full_implementation_notebook.ipynb`**: Combines audio transcription and text summarization with Gradio, providing a complete interactive application with code that integrates all components.
 - **`results.csv`**: Contains output data from the full implementation notebook, including transcripts and summaries.
 - **`video_demo.mp4`**: A walkthrough video of the full implementation notebook, demonstrating how to use the interactive features.
