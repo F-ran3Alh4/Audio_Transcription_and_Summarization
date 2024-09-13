@@ -33,7 +33,7 @@ This project demonstrates a pipeline for converting audio files into text transc
 
 ## Hugging Face Project
 
-Explore the deployed Hugging Face project here: [Link to Hugging Face project]
+Explore the deployed Hugging Face project here: [https://huggingface.co/spaces/RanAlh443/Audio_Transcription_and_Summarization]
 
 ## Video Walkthrough
 
