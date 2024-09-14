@@ -4,14 +4,6 @@
 
 This project demonstrates a pipeline for converting audio files into text transcripts and then summarizing the text using advanced Hugging Face models. It integrates audio transcription and text summarization, featuring a user-friendly interface built with Gradio.
 
-## Models Used
-
-- **Whisper (OpenAI)**: A cutting-edge model for automatic speech recognition (ASR). The `base` variant is used to transcribe audio files into text, providing robust performance across various languages and accents.
-
-- **PEGASUS (Hugging Face)**: A model specialized in text summarization, specifically the `google/pegasus-large` variant. It generates concise and coherent summaries from longer texts, ideal for summarizing transcribed content.
-
-  Learn more about the PEGASUS model [here](https://huggingface.co/docs/transformers/main/model_doc/pegasus#pegasus).
-
 ## Files
 
 - **`pipeline_notebook.ipynb`**: Demonstrates the use of Hugging Face models for audio-to-text transcription and text summarization with code example and explanation.
@@ -27,6 +19,14 @@ This project demonstrates a pipeline for converting audio files into text transc
 - **`gradio_notebook.ipynb`**: Features a demonstration of Gradio components such as `Textbox`, `Slider`, and `Audio`. The code examples illustrate how to build and customize Gradio interfaces for different types of user inputs and outputs.
 
 - **`full_implementation_notebook.ipynb`**: Integrates the transcription and summarization functionality into a Gradio interface. The notebook contains code that allows users to upload audio files, adjust summary length settings, and view both the transcript and summary. It showcases how to combine multiple models and Gradio components into a cohesive application.
+
+## Models Used
+
+- **Whisper (OpenAI)**: A cutting-edge model for automatic speech recognition (ASR). The `base` variant is used to transcribe audio files into text, providing robust performance across various languages and accents.
+
+- **PEGASUS (Hugging Face)**: A model specialized in text summarization, specifically the `google/pegasus-large` variant. It generates concise and coherent summaries from longer texts, ideal for summarizing transcribed content.
+
+  Learn more about the PEGASUS model [here](https://huggingface.co/docs/transformers/main/model_doc/pegasus#pegasus).
 
 ## How the Hugging Face Text-to-Text Pipeline Works
 
