@@ -67,4 +67,4 @@ Explore the deployed Hugging Face project [here](https://huggingface.co/spaces/R
 
 ## Video Walkthrough
 
-Watch the video demonstration [here](link-to-your-video).
+Watch the video demonstration [here](https://drive.google.com/file/d/1K5W9O73xFsxU_lJRNxv4SW5ASfWhIela/view?usp=sharing).
