@@ -67,5 +67,4 @@ Explore the deployed Hugging Face project [here](https://huggingface.co/spaces/R
 
 ## Video Walkthrough
 
-Watch the video demonstration [here](link-to-your-video). The video provides a walkthrough of the full implementation notebook, demonstrating how to use the interactive features.
-
+Watch the video demonstration [here](link-to-your-video).
